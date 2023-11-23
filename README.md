@@ -67,7 +67,7 @@ git config --list
    -----------------------------
    --------------------------------------------------------
 
- ![image](https://github.com/hyunju960429/git_connect/assets/145514544/d251ba22-e0f0-4e05-a7bb-058ed83cb672)
+![image](https://github.com/hyunju960429/git_connect/assets/145514544/cc8523e8-8466-4bd7-a127-83581a76f141)
 
 
    
