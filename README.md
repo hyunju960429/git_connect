@@ -84,7 +84,7 @@ git commit -m "메세지"
 git push origin master
 ```
 
-😲 ! 올릴때 오류가 발생한다면(연결이 안된것)
+😲 ! 올릴때 오류가 발생한다면(연결이 안된것)⬇️
 # 1. 다시 github의 내용을 내 PC로 끌어와야한다.
 ```
 git pull origin master
